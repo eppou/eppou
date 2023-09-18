@@ -15,7 +15,7 @@ Sou um entusiasta da tecnologia apaixonado por programação e desenvolvimento d
 - 🧩 Outras habilidades: Dominio de Calculo e outras areas matematicas.
 
 ## Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eppou)](https://github.com/anuraghazra/github-readme-stats)
 
 Atualmente meus repositorios são focados nas materias da faculdade!
 
