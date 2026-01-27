@@ -1,22 +1,22 @@
-# Bem-vindo ao meu perfil do GitHub! 👋
+# Welcome to my GitHub profile! 👋
 
-![Cientista da Computação](https://www.park.edu/wp-content/uploads/2022/09/source-g0d609dba2_1920.jpg)
+![Computer Scientist](https://www.park.edu/wp-content/uploads/2022/09/source-g0d609dba2_1920.jpg)
 
-## Sobre Mim
-Marcos Vinicius Pretti Dias , 20 anos
-sou um estudante de Ciencia da Computação apaixonado por programação e desenvolvimento de software. 
+## About Me
+**Marcos Vinicius Pretti Dias**, 23 years old  
+I am a Computer Scientist and Master's (M.Sc.) passionate for programming and software development.
 
-- 🧠 Atualmente estou aprendendo sobre banco de dados, redes, IA , engenharia de software e Sistemas operacionais.
-- 📫 Como me alcançar: marcosvinicius_pretti@hotmail.com
+- 🧠 Currently learning about Databases, Networks, AI, Software Engineering, and Operating Systems.
+- 📫 How to reach me: marcosvinicius_pretti@hotmail.com
 
-## Habilidades e Tecnologias
-- 💻 Linguagens de programação: C,C++,Java,Javascript,Flutter,Python, Assembly language, R.
-- 🌐 Desenvolvimento web/mobile: React,React Native, Spring.
-- 📊 Ciência de dados: Pandas,Geopandas,Matplotlib, NumPy.
-- 🧩 Outras habilidades: Domínio de Cálculo e outras áreas matemáticas.
+## Skills and Technologies
+- 💻 **Programming Languages:** C, C++, Java, JavaScript, Flutter, Python, Assembly language, R.
+- 🌐 **Web/Mobile Development:** React, React Native, Spring.
+- ☁️ **Cloud & DevOps:** Docker, Oracle Cloud (Autonomous Database & Oracle APEX).
+- 📊 **Data Science & Databases:** Pandas, Geopandas, Matplotlib, NumPy, Geospatial Databases.
+- 🧩 **Other Skills:** Calculus and other mathematical areas.
 
-## Estatísticas do GitHub
+## GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eppou)](https://github.com/anuraghazra/github-readme-stats)
 
-Atualmente meus repositorios são focados nas materias da faculdade!
-
+Currently, my repositories are focused on college subjects!
